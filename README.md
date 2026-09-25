@@ -5,8 +5,6 @@
 - **RPG Maker MV／MZ**：文字翻譯，以及物品、角色、變數、開關的即時修改和數值搜尋。
 - **Unity（Mono／IL2CPP）**：數值搜尋、開關清單與「我的清單」，可以鎖定數值。
 
-所有操作都在工坊視窗裡完成，遊戲畫面上不會多疊一層選單。
-
 ## 下載
 
 到 [Releases](https://github.com/funkeyyou/youyi-workbench-releases/releases/latest) 下載最新的 `YouyiWorkbench-<版本>.exe`，放在可以寫入的資料夾（例如「文件」底下自己建的資料夾）直接執行，不必安裝。設定、API Key 與翻譯專案都存在 exe 旁邊的 `config`、`projects` 資料夾，搬移時整個資料夾一起搬。
