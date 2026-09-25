@@ -35,4 +35,4 @@
 
 ## 其他
 
-遊譯工坊為獨立開發，未使用 MTool 或 Cheat Engine 的程式碼與服務。第三方元件與授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+第三方元件與授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
