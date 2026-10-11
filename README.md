@@ -1,15 +1,13 @@
 # 遊譯工坊
 
-遊譯工坊是 Windows 上的遊戲翻譯與即時數值修改工具，介面參考 Cheat Engine。
+遊譯工坊是 Windows 上的遊戲翻譯與即時數值修改工具。
 
 - **RPG Maker MV／MZ**：文字翻譯，以及物品、角色、變數、開關的即時修改和數值搜尋。
 - **Unity（Mono／IL2CPP）**：數值搜尋、開關清單與「我的清單」，可以鎖定數值。
 - **Godot 4**：全域變數清單（金錢、好感度這類數值不必先搜尋）、數值搜尋、開關清單與「我的清單」。
 - **Ren'Py 7／8**：變數清單（含 persistent）、開關清單（畫廊、CG 解鎖旗標）、數值搜尋與「我的清單」。
 - **RPG Maker XP／VX／VX Ace**：物品、角色、變數、開關的即時修改和數值搜尋。
-- **其他遊戲**（Wolf RPG、Unreal、GameMaker、吉里吉里或任意 exe）：和 Cheat Engine 一樣的記憶體數值搜尋，支援整數、浮點、未知初始值與鎖定，不需要安裝任何東西。
-
-所有操作都在工坊視窗裡完成，遊戲畫面上不會多疊一層選單。
+- **其他遊戲**（Wolf RPG、Unreal、GameMaker、吉里吉里或任意 exe）：記憶體數值搜尋，支援整數、浮點、未知初始值與鎖定，不需要安裝任何東西。
 
 ## 下載
 
@@ -45,4 +43,4 @@
 
 ## 其他
 
-遊譯工坊為獨立開發，未使用 MTool 或 Cheat Engine 的程式碼與服務。第三方元件與授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
+第三方元件與授權見 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。
